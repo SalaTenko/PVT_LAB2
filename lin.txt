@@ -1,0 +1,4 @@
+2 2
+3 3
+4 4
+plot "graf.txt" with linespoints title "N=15000","graf2.txt" with linespoints title "N=20000","graf3.txt" with linespoints pointtype 5 title "N=25000","lin.txt" with linespoints pointtype 5 title"Leinear speedup"  
